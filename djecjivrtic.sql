@@ -31,6 +31,11 @@ prezime varchar(50) not null
 create table grupe(
 sifra int not null primary key identity(1,1),
 naziv varchar(50) not null,
-odgajatelji varchar(50) not null,
-djeca varchar(50) not null 
+odgajatelj int not null references odgajatelji(sifra),
+vrtic int not null references vrtic(sifra)  
+);
+
+create table clanovi(
+dijete int not null references djeca(sifra),
+grupa int not null references grupe(sifra)
 );
