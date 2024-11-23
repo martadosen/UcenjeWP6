@@ -1,15 +1,15 @@
 use master;
 go 
-drop database if exists djeèjivrtiæ;
+drop database if exists djecjivrtic;
 go
 
-create database djeèjivrtiæ collate Croatian_CI_AS;
+create database djecjivrtic collate Croatian_CI_AS;
 go
 
-use djeèjivrtiæ;
+use djecjivrtic;
 go
 
-create table vrtiæ(
+create table vrtic(
 sifra int not null primary key identity(1,1),
 naziv varchar(50) not null,
 adresa varchar(50) not null,
