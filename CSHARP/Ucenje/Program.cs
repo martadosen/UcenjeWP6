@@ -1,4 +1,9 @@
-﻿// komentar jedna linija
+﻿
+using Ucenje;
+
+E01UlazIzlaz.Izvedi();
+
+// komentar jedna linija
 
 /*
  
@@ -9,8 +14,8 @@
 
 
 // See https://aka.ms/new-console-template for more information
-Console.WriteLine("pozdrav svijetu čćčpč čč");
-Console.WriteLine("Hello Osijek");
+//Console.WriteLine("pozdrav svijetu čćčpč čč");
+//Console.WriteLine("Hello Osijek");
 
 
                        
