@@ -1,17 +1,59 @@
 ﻿
 
 using Ucenje;
-E07Z2.Izvedi();
+
+
+new Ucenje.E18NasljedivanjePolimorfizam.Program();
+//nova instanca klase program
+//new Ucenje.E17KlasaObjekt.Program();
+
+//E15Subota.Izvedi();
+
+//E14Vjezbanje.Izvedi();
+
+//E13Z2.Izvedi();
+
+//E13Z1.Izvedi();
+
+//E13Rekurzija.Izvedi();
+
+
+//E12Z1.Izvedi();
+
+
+//E12Metode.Izvedi();
+
+
+//E11Z1LOSE.Izvedi();
+
+//E11TryCatch.Izvedi();
+
+//E10Z1.Izvedi();
+//E10ForeachPetlja.Izvedi();
+
+//E09Z2.Izvedi();
+
+//E09Z1.Izvedi();
+
+//E09DoWhilePetlja.Izvedi();
+
+//E08WhilePetlja.Izvedi();
+
+//E07Z2.Izvedi();
+
 //E07Z1.Izvedi();
+
 //E07ForPetlja.Izvedi();
-//E04Z3.Izvedi();
+
 //E04Z2.Izvedi();
+
 //E06Nizovi.Izvedi();
+
 //E05UvjetnoGrananjeSwitch.Izvedi();
+
 //E04Z1.Izvedi();
 
 //E04UvjetnoGrananjeIf.Izvedi();
-
 
 //E03Operatori.Izvedi();
 
@@ -19,7 +61,7 @@ E07Z2.Izvedi();
 
 //E02VarijableTipoviPodataka.Izvedi();
 
-// E01UlazIzlaz.Izvedi();
+//E01UlazIzlaz.Izvedi();
 
 // komentar jedna linija
 
